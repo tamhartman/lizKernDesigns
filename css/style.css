@@ -6,16 +6,19 @@ body {
 h1,
 h2 {
 	font-weight: bold;
+	text-align: center;
 }
 p {
 	font-size: 16px;
 	color:#3E4649;
+	padding: 24px;
+	margin: 24px;
 }
 .navbar {
 	margin-bottom: 0;
 }
 .jumbotron {
-	background-image: url("test.png");
+	background-image: url("img/tortu-bg.jpg");
 	color: white;
 	text-align: center;
 }
