@@ -1,0 +1,92 @@
+body {
+	background: #ffffff;
+	color:#3E4649;
+	font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2 {
+	font-weight: bold;
+}
+p {
+	font-size: 16px;
+	color:#3E4649;
+}
+.navbar {
+	margin-bottom: 0;
+}
+.jumbotron {
+	background-image: url("test.png");
+	color: white;
+	text-align: center;
+}
+.jumbotron h2{
+	
+}
+.jumbotron p {
+	color: #2E2F31;
+	font-size: 26px;
+}
+.jumbotron h1{
+	color: #2E2F31;
+}
+.navbar-inverse {
+	background: #2E2F31;
+	border: 0;
+}
+.dropdown-menu {
+	background: #2E2F31;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-inverse .navbar-nav li a {
+	color: #f7f7f7;
+	font-size: 16px;
+}
+.navbar-inverse .navbar-nav li a:hover {
+	background: #27A967;
+}
+.navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+	background: #2C463C;
+}
+.dropdown-menu li a {
+	padding: 10px;
+}
+.btn-primary {
+	color: #2E2F31;
+	background-color: transparent;
+	border-color: #2E2F31;
+	margin-bottom: 5px;
+}
+.btn-primary:hover {
+	color: red;
+	background-color: white;
+	border-color: white;
+}
+.glyphicon-large {
+	font-size: 100px;
+}
+.call-to-action {
+	text-align: center;
+}
+.call-to-action p {
+	margin-bottom: 30px;
+	font-family: sans-serif;
+}
+.testimonials{
+
+}
+#about{
+	background-image: url("tortu-bg.png");
+	color: white;
+	font-size: 34px;
+	text-align: center;
+	margin-top: 200px;
+}
+p, h3{
+	text-align: center;
+}
+
+body {
+	background-image: url("img/fullscreen_bk.png");
+	background-color: #cccccc;
+ }
