@@ -52,6 +52,9 @@ footer{
 	background: #2E2F31;
 	border: 0;
 }
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
 .dropdown-menu {
 	background: #2E2F31;
 	border-radius: 0;
