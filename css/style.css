@@ -5,7 +5,7 @@ body {
 }
 h1,
 h2 {
-	font-weight: bold;
+	color: #3e4649;
 	text-align: center;
 }
 p {
@@ -13,6 +13,18 @@ p {
 	color:#3E4649;
 	padding: 12px;
 	margin: 12px;
+}
+a {
+	font-size: 24px;
+}
+li{
+	list-style-type: none;
+}
+footer{
+	text-align: center;
+	padding-bottom: 24px;
+	background-color: white;
+	padding-top: 24px;
 }
 .navbar {
 	margin-bottom: 0;
@@ -87,11 +99,11 @@ p {
 	text-align: center;
 }
 #about{
-	background-image: url("tortu-bg.png");
+	background-image: url("img/tortu-bg.png");
 	color: white;
 	font-size: 34px;
 	text-align: center;
-	margin-top: 200px;
+	padding-bottom: 24px;
 }
 .about-avatar{
 	border-radius: 50%;
@@ -101,6 +113,7 @@ p {
 }
 #projects{
 	background-color: white;
+	padding-bottom: 32px;
 }
 #resume{
 	background-color: white;
