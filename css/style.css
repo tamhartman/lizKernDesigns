@@ -113,6 +113,8 @@ footer{
 .jumbotron {
 	color: white;
 	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .navbar-inverse .navbar-nav li a:hover {
 	background: red;
