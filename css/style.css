@@ -41,6 +41,9 @@ footer{
 .jumbotron h2{
 	
 }
+.carousel-inner p{
+	color: #ffffff;
+}
 .jumbotron p {
 	color: #2E2F31;
 	font-size: 26px;
